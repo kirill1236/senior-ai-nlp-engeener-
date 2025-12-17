@@ -1,1 +1,1 @@
-# senior-ai-nlp-engeener-
+# senior-ai-nlp-engeener-   С нкля до профи самому 

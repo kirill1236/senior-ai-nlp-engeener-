@@ -99,12 +99,10 @@ print ("рандом")
 if ac > ad:
     print("ахуено")
 else:
-    print ("нет")
-
-
-День 2 | 2 часа 
-
-
+ print ("нет")
 
 print (ac)
 print(ad)
+
+
+День 2 | 2 часа 
